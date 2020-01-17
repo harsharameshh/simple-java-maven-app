@@ -24,7 +24,7 @@
         <version>3.0.2</version>
         <configuration>
 
-    <outputDirectory>/home/centos/</outputDirectory>
+    <outputDirectory>/home/harsha/</outputDirectory>
   
           <archive>
             <manifest>
